@@ -8,7 +8,7 @@
 # Files and directories created by pub
 .dart_tool/
 .packages
-build/
+#build/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
@@ -171,7 +171,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 ### Gradle Patch ###
-**/build/
+#**/build/
 
 # End of https://www.gitignore.io/api/dart,gradle,flutter,intellij
 
